@@ -1,0 +1,27 @@
+#+TITLE: README
+
+* Arch settings
+
+  #+begin_src shell :shebang #!/bin/sh
+    pacman -S go
+  #+end_src
+
+** System settings
+
+*** Desktop
+
+*** Emacs
+
+*** Software
+
+** Per-machine settings
+
+*** antares
+
+*** antares-note
+
+*** antares-net
+
+*** antares-work
+
+* Guix settings
